@@ -1,0 +1,1 @@
+{"ldiff":[1,"Level Difficulty","Easier",["Easier","Easy","Hard","Harder","Insane","Demon","Auto"]],"ec_val":[2,"Snap to grid","16"],"llikes":[3,0.0],"lname":[2,"Level Name","Level13"],"lmusic":[1,"Level Music","Synth 130",["Synth 130","Invincible","Fluxxwave","Peer Gynt"]],"r_width":[2,"Room width","1984"],"r_height":[2,"Room height","1984"]}
