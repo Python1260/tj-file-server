@@ -1,1 +1,1 @@
-{"ref instance 100895":{"x":336.0,"y":736.0,"image_xscale":1.0,"image_yscale":1.0,"image_angle":880.0,"object_index":"@ref object(obj_blade)"},"ref instance 100896":{"x":656.0,"y":416.0,"image_xscale":1.0,"image_yscale":1.0,"image_angle":0.0,"object_index":"@ref object(obj_player)"}}
+{"ref instance 100895":{"x":336.0,"y":736.0,"image_xscale":1.0,"image_yscale":1.0,"image_angle":6930.0,"object_index":"@ref object(obj_blade)"},"ref instance 100896":{"x":656.0,"y":416.0,"image_xscale":1.0,"image_yscale":1.0,"image_angle":0.0,"object_index":"@ref object(obj_player)"}}
