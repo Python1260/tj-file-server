@@ -1,1 +1,0 @@
-{"ref instance 100922":{"x":624.0,"y":512.0,"image_xscale":1.0,"image_yscale":1.0,"image_angle":0.0,"object_index":"@ref object(obj_player)"}}
