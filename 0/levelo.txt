@@ -1,0 +1,1 @@
+{"ref instance 100893":{"x":880.0,"y":400.0,"image_xscale":1.0,"image_yscale":1.0,"image_angle":0.0,"object_index":"@ref object(obj_invspike)"},"ref instance 100892":{"x":752.0,"y":240.0,"image_xscale":1.0,"image_yscale":1.0,"image_angle":0.0,"object_index":"@ref object(obj_player)"}}
